@@ -28,7 +28,7 @@ After the first run it will simply start the server.
 These environment variables can be set at run time to override their defaults.
 
 * JVM_OPTS "-Xms2048m -Xmx6144m"
-* MOTD "A Minecraft (FTB Presents Stoneblock 3 1.2.1) Server Powered by Docker"
+* MOTD "A Minecraft (FTB Presents Stoneblock 3 1.10.0) Server Powered by Docker"
 * LEVEL world
 * LEVELTYPE ""
 
